@@ -1,4 +1,4 @@
-# SEAON
+# SEACF
 ## Download tweet images and set up image path
 - Download each tweet's associated image via this link (https://drive.google.com/file/d/1PpvvncnQkgDNeBMKVgG2zFYuRhbL873g/view).
 - Before you run the bash file, you need to change the parameter --img_path to your saved path.
