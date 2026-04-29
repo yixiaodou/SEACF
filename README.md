@@ -9,5 +9,6 @@
 ##
 ```bash
 bash run_himt.sh
+```
 ## Acknowledgements
 Most of the codes are based on the codes provided by huggingface: https://github.com/huggingface/transformers.
