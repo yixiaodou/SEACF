@@ -6,7 +6,7 @@
 ## data and roberta
 - Create a new folder named data and a folder named roberta.
 - The Roberta pre-trained model can be downloaded from Hugging Face:https://github.com/huggingface/transformers.
-##
+## Training and Inference
 ```bash
 bash run_himt.sh
 ```
